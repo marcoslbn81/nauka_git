@@ -2,3 +2,4 @@ przed stage
 po stage
 terefere
 tralalala
+Testujemy jak dzialaja PR
