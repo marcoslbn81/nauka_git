@@ -1,4 +1,5 @@
 przed stage
+testujemy3
 po stage
 terefere
 tralalala
